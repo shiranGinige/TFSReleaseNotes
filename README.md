@@ -1,4 +1,5 @@
 # TFSReleaseNotes
 Automatic release notes generator for TFS
 
-<<More notes coming....>>
+
+{More notes coming soon...}
